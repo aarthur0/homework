@@ -1,7 +1,6 @@
 def split(word):
 	return[i for i in word]
-#word=input("Enter the word  ")
-word='homos'
+word=input("Enter the word  ")
 word=word.lower()
 #print(split(word)[0])
 _dict=['word','world','work','dogma','dog','do','origin','original','for','forecast',
